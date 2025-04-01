@@ -61,7 +61,8 @@ Modify lookup values in the lookup formulas to fetch different product details.
 
 If you have any suggestions, improvements, or want to collaborate on similar projects, feel free to connect! 🚀
 
-🔗 GitHub Profile: 
+🔗 GitHub Profile:https://github.com/nikhiltake
+
 🔗 LinkedIn: www.linkedin.com/in/nikhil-take-ab26aa270
 
 
